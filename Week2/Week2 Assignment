@@ -1,35 +1,50 @@
-Submission Guidelines:
-Ensure that the Jupyter notebook is well-documented with clear explanations for each step.
-Include relevant visualizations, such as plots and charts, to support your analysis.
-Submit the Jupyter notebook along with any additional files (e.g., dataset) used in the analysis.
-Submit the assignment here.Machine Learning Mastery Assignment
-Instructions:
-Objective: Implement and analyze various machine learning algorithms discussed in the lecture.
-Submission Format: Jupyter Notebook (.ipynb).
-Total Marks: 50.
-Submission Deadline: February 16th 2024.
-Tasks:
-Task 1: Data Preparation (5 Marks)
-Load a dataset of your choice.
-Perform necessary data preprocessing steps such as handling missing values, encoding categorical variables, and scaling numerical features.
-Task 2: Supervised Learning (20 Marks)	
-Part A: Choose one supervised learning algorithm (e.g., Decision Trees, Support Vector Machines, or Neural Networks) and train it on the dataset.
-Part B: Evaluate the performance of the trained model using appropriate evaluation metrics (e.g., accuracy, precision, recall, F1-score).
-Part C: Compare the performance of at least two different supervised learning algorithms on the same dataset.
-Task 3: Unsupervised Learning (15 Marks)
-Part A: Apply an unsupervised learning algorithm (e.g., K-Means Clustering or Hierarchical Clustering) to identify patterns or clusters in the dataset.
-Part B: Visualize the clusters and interpret the results.
-Part C: Discuss the advantages and limitations of using unsupervised learning in this scenario.
-Task 4: Application in Predictive Analytics (10 Marks)
-Choose one predictive analytics application (e.g., sales forecasting or customer churn prediction).
-Build a machine learning model to address the chosen application.
-Evaluate the model's performance and discuss the practical implications.
-Bonus Task (Extra 5 Marks):
-Implement an additional machine learning algorithm of your choice and compare its performance with the existing models.
+# Submission Guidelines
 
+- Ensure that the Jupyter notebook is well-documented with clear explanations for each step.
+- Include relevant visualizations, such as plots and charts, to support your analysis.
+- Submit the Jupyter notebook along with any additional files (e.g., dataset) used in the analysis.
+- Submit the assignment [here](#).
 
-Note:
-Plagiarism will not be tolerated. Ensure that the assignment is your original work.
-Feel free to reach out for clarification on any task or concept.
+# Machine Learning Mastery Assignment
 
+## Instructions
 
+### Objective
+Implement and analyze various machine learning algorithms discussed in the lecture.
+
+### Submission Format
+Jupyter Notebook (.ipynb).
+
+### Total Marks
+50.
+
+### Submission Deadline
+February 16th, 2024.
+
+## Tasks
+
+### Task 1: Data Preparation (5 Marks)
+- Load a dataset of your choice.
+- Perform necessary data preprocessing steps such as handling missing values, encoding categorical variables, and scaling numerical features.
+
+### Task 2: Supervised Learning (20 Marks)
+- **Part A:** Choose one supervised learning algorithm (e.g., Decision Trees, Support Vector Machines, or Neural Networks) and train it on the dataset.
+- **Part B:** Evaluate the performance of the trained model using appropriate evaluation metrics (e.g., accuracy, precision, recall, F1-score).
+- **Part C:** Compare the performance of at least two different supervised learning algorithms on the same dataset.
+
+### Task 3: Unsupervised Learning (15 Marks)
+- **Part A:** Apply an unsupervised learning algorithm (e.g., K-Means Clustering or Hierarchical Clustering) to identify patterns or clusters in the dataset.
+- **Part B:** Visualize the clusters and interpret the results.
+- **Part C:** Discuss the advantages and limitations of using unsupervised learning in this scenario.
+
+### Task 4: Application in Predictive Analytics (10 Marks)
+- Choose one predictive analytics application (e.g., sales forecasting or customer churn prediction).
+- Build a machine learning model to address the chosen application.
+- Evaluate the model's performance and discuss the practical implications.
+
+### Bonus Task (Extra 5 Marks)
+- Implement an additional machine learning algorithm of your choice and compare its performance with the existing models.
+
+## Note
+- Plagiarism will not be tolerated. Ensure that the assignment is your original work.
+- Feel free to reach out for clarification on any task or concept.
